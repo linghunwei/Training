@@ -1,0 +1,7 @@
+﻿1. 將 \_doc\FLOWNHIS.txt 複製到 C:\
+
+2. 使用 Oracle ，則可使用 Toad ，執行 FLOWNHIS_ORACLE.sql
+
+3. 專案的 lib 需要有 ojdbc14.jarr
+
+4. 執行 BatchJob.java 此程式會從 C:\FLOWNHOS.txt 匯入資料到 V_FLOWNHIS 中。
